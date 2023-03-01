@@ -12,3 +12,4 @@ contract Counter {
     return counter;
   }
 }
+
